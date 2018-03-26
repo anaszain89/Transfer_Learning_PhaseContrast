@@ -1,8 +1,8 @@
 # Transfer_Learning_PhaseContrast
 Codes from our project on classification and characterization of Phase Contrast Images from the human patellar cartilage
-
+--------------
 We will share some of the codes used to generate some of the results of our paper 
-"Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage" published recently.
+["Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage"](https://www.sciencedirect.com/science/article/pii/S0010482518300167) published recently.
 
 This code includes contributions from Botao Deng and Adora D'Souza.
 
